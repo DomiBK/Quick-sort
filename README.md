@@ -23,5 +23,5 @@ Podzielmy tablicę na elementy mniejsze i większe od pivota: [2, 1, 3], 4, [7, 
 Rekurencyjnie posortujmy podtablice [2, 1, 3] i [7, 6, 8, 5].
 Po scaleniu wynik będzie wyglądał tak: [1, 2, 3, 4, 5, 6, 7, 8]
 
-Na cel utwórz algorytm quick-sort dla macierzy o dowolnych rozmiarach losowych wartościach zmiennoprzecinkowych 
-Moja praca
+
+
